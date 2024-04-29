@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/b93cf318-f6d6-4c4b-846c-d578a05680b0/resourceGroups/TarefaDB-Backend_group/providers/Microsoft.Web/sites/TarefaDB-Backend",
-    "appService.deploySubpath": "."
-}
